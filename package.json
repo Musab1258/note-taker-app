@@ -1,0 +1,31 @@
+{
+  "name": "zuri-crud-app-with-database",
+  "version": "1.0.0",
+  "description": "This is a crud app",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Musab1258/zuri-CRUD-App-with-Database.git"
+  },
+  "keywords": [
+    "crud",
+    "zuri-task"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Musab1258/zuri-CRUD-App-with-Database/issues"
+  },
+  "homepage": "https://github.com/Musab1258/zuri-CRUD-App-with-Database#readme",
+  "dependencies": {
+    "dotenv": "^9.0.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.12.7"
+  },
+  "engines": {
+    "node": "14.15.5"
+  }
+}
